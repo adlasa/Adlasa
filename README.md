@@ -1,5 +1,4 @@
-# Adlasa
-Hola, soy Adrián
+# Hola, soy Adrián Lazaro
 
 🎓 Estudiante de Máster en IA, Big Data & Cloud  
 💼 Experiencia en IT Consulting y Transformación Digital  
